@@ -9,7 +9,7 @@
   },
   "homepage": "./",
   "dependencies": {
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^3.0.8",
     "electron-is-dev": "^1.0.1",
     "firebase": "^5.8.0",
     "lodash": "^4.17.11",
